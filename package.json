@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "bin": {
+    "crossyio-pack": "./command.js"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/crossyio/node-crossyio-pack"
