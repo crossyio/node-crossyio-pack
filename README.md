@@ -1,4 +1,6 @@
 # node-crossyio-pack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/crossyio/node-crossyio-pack.svg)](https://greenkeeper.io/)
 crossy.io npm module packer
 
 [![Build Status](https://travis-ci.org/crossyio/node-crossyio-pack.svg?branch=master)](https://travis-ci.org/crossyio/node-crossyio-pack)
